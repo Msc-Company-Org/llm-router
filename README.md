@@ -136,3 +136,13 @@ MIT © 2026 [Moisés Costa](https://github.com/Finish-Him) / [MSC Company](https
 > Destilado de padrões usados em agentes de IA em produção. Conceitos e o "porquê" de cada decisão estão no guia **[IA em Produção](https://github.com/Finish-Him/ia-em-producao)**.
 >
 > ⭐ Útil pra você? Uma estrela ajuda o projeto a alcançar mais devs.
+
+---
+
+## 🚀 Built by MSC Labs
+
+A public reference from **MSC Labs** — we fine-tune and ship custom LLMs (QLoRA/SFT) with managed inference, benchmarked against frontier-API baselines.
+
+**→ [Train your own model with MSC Labs](https://labs.msccompany.com.br/?utm_source=github&utm_medium=readme&utm_campaign=oss-authority-2026&utm_content=llm-router)**
+
+⭐ *Star this repo if it helps — it keeps the reference models coming.*
